@@ -1,6 +1,6 @@
 # Alilo Coding — Admin Dashboard Template
 
-> A fully-featured, multi-page **Admin Dashboard** UI template built with pure **HTML5 and CSS3** — no JavaScript, no frameworks. Features a persistent collapsible sidebar, a rich custom CSS utility framework (`fremwork.css`) with 13 Roman-numeral color scales, and 8 fully linked dashboard pages.
+🌐 Websites. A fully-featured, multi-page **Admin Dashboard** UI template built with pure **HTML5 and CSS3** — no JavaScript, no frameworks. Features a persistent collapsible sidebar, a rich custom CSS utility framework (`fremwork.css`) with 13 Roman-numeral color scales, and 8 fully linked dashboard pages.
 
 ---
 
